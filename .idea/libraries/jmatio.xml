@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jmatio">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/JMatIO-041212/lib/jmatio.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JMatIO-041212/lib/jmatio.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
