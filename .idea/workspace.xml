@@ -2,63 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9973169f-2ed4-434e-b830-f3c30afdf81f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jmatio.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jmatio.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/botlogopsd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProcessData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/weights.csv" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jmatio.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/lib/jmatio.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/common/MatDataTypes.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/ByteBufferInputStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/DataOutputStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/FileBufferedDataOutputStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/HeapBufferDataOutputStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileFilter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileHeader.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileIncrementalWriter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileInputStream.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileReader.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatFileWriter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/MatlabIOException.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/io/OSArrayTag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/ByteStorageSupport.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/GenericArrayCreator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLCell.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLChar.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLDouble.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLEmptyArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLInt16.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLInt32.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLInt64.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLInt8.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLJavaObject.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLNumericArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLObject.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLSingle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLSparse.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLUInt32.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLUInt64.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/src/com/jmatio/types/MLUInt8.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/bigsparse.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/cell.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/com/jmatio/test/MatIOTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/int32.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/int64.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/int8.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/java.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/matnativedouble.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/matnativedouble2.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/nan.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/object.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/simplestruct.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/single.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/sparse.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/uint32.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/uint64.mat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JMatIO-041212/test/uint8.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ClassificationInJava.iml" afterPath="$PROJECT_DIR$/ClassificationInJava.iml" />
       <change beforePath="$PROJECT_DIR$/out/production/ClassificationInJava/Test.class" afterPath="$PROJECT_DIR$/out/production/ClassificationInJava/Test.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassificationInJava/processedimages.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,16 +24,50 @@
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProcessData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProcessData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="33" column="119" lean-forward="false" selection-start-line="33" selection-start-column="119" selection-end-line="33" selection-end-column="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weights.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weights.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14063">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -101,8 +86,41 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="matfilerw-master" />
+              <option name="path" value="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="matfilerw-master" />
+                <option name="path" value="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" value="3087903162556" />
+        <entry key="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master/build.gradle" value="1351873460" />
+        <entry key="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master/gradle.properties" value="3252248140" />
+        <entry key="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master/gradle/wrapper/gradle-wrapper.properties" value="528695444" />
+      </map>
+    </option>
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" value="RE_IMPORT" />
+      </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -110,13 +128,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/processedimages.txt" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/src/ReadData.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/ProcessData.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1058" />
-    <option name="width" value="942" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="620" />
+    <option name="width" value="1308" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -144,30 +164,7 @@
             </path>
             <path>
               <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClassificationInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="jmatio" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="jmatio" type="70bed36:NamedLibraryElementNode" />
-              <item name="jmatio.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="jmatio" type="70bed36:NamedLibraryElementNode" />
-              <item name="jmatio.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jmatio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,10 +188,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JMatIO-041212/lib/jmatio.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -425,23 +426,26 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32646048" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3657984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4450736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23899034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16761042" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -457,7 +461,6 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -468,78 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassificationInJava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassificationInJava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/processedimages.mat" />
-    <entry file="file://$PROJECT_DIR$/ClassificationInJava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClassificationInJava.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,14 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/processedimages.mat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -813,10 +736,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/.ci/ci.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/MatlabClasses/HandleClass.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matfilerw-master/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/matfilerw-master/matfilerw-master/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3759">
+          <caret line="180" column="49" lean-forward="false" selection-start-line="180" selection-start-column="49" selection-end-line="180" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/processedimages.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1587">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weights.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14063">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="123" column="13" lean-forward="false" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProcessData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="33" column="119" lean-forward="false" selection-start-line="33" selection-start-column="119" selection-end-line="33" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -880,7 +901,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -888,7 +908,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jmatio</last-edited>
+          <last-edited>opencv-343</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -6,11 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/openCVLibrary3" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/matfilerw-master" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="9.0" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="opencv-343" level="project" />
     <orderEntry type="library" name="x64" level="project" />
-    <orderEntry type="library" name="jmatio" level="project" />
   </component>
 </module>

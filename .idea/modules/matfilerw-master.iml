@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="matfilerw-master" external.linked.project.path="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" external.root.project.path="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
