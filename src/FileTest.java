@@ -17,12 +17,16 @@ public class FileTest {
        Files.list(new File(dir).toPath()).forEach(path -> {
            System.out.println(path);
        });
-        Mat test1 = Mat.ones(1,2, CvType.CV_8U);
+        Mat test1 = Mat.ones(1,2, CvType.CV_32F);
+        test1.put(0,1,2);
         Mat test2 = Mat.zeros(1,3, CvType.CV_8U);
         Mat mask = Mat.zeros(1,3,CvType.CV_8U);
 
         MatOfInt mint = new MatOfInt(2,3,4);
+        Mat lint = new Mat();
 
+        Core.gemm(test1,test1,1,new Mat(),0,lint,Core.GEMM_1_T);
+        System.out.println(lint.dump());
         int data[] = new int[4];
         mint.get(0,0,data);
         //System.out.println(Arrays.toString(data));
