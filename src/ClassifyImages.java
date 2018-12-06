@@ -13,17 +13,15 @@ import java.nio.file.Files;
 import java.util.*;
 
 public class ClassifyImages {
-    public static void main(String[] args)throws InterruptedException{
-
+    public static void main(String[] args) {
         /* set up JFrame*/
         JFrame frame = new JFrame();
         frame.setLayout(new FlowLayout());
-        frame.setSize(300,300);
+        frame.setSize(500,300);
         JLabel label = new JLabel();
-
-        ImageIcon icon = new ImageIcon();
-        label.setIcon(icon);
         frame.add(label);
+
+
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -80,8 +78,23 @@ public class ClassifyImages {
                 }else{
                     id = "silver";
                 }
+                Mat d = pixels;
+                Mat display = new Mat();
+                int scale = 10;
+                Imgproc.resize(pixels,display,
+                        new Size(image.getWidth()/scale,image.getHeight()/scale),
+                        0,0,Imgproc.INTER_AREA);
+                BufferedImage displayImage = null;
+                try{
+                    displayImage = ProcessData.Mat2BufferedImage(display);
+                }catch(IOException e){}
+                ImageIcon icon = new ImageIcon(displayImage);
+                label.setIcon(icon);
+                frame.repaint();
                 System.out.println(path + " is a " + id + "mineral");
-
+                try{
+                    Thread.sleep(2000);
+                } catch(InterruptedException e){}
                 //input.put(0,0,)
                 //input.put(1,0,pixels.reshape(1,1));
 

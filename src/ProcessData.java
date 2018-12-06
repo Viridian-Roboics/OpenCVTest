@@ -34,7 +34,7 @@ public class ProcessData {
     //following two methods from https://stackoverflow.com/questions/14958643/converting-bufferedimage-to-mat-in-opencv
     public static Mat BufferedImage2Mat(BufferedImage image) throws IOException {
         ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-        ImageIO.write(image, "png", byteArrayOutputStream);
+        ImageIO.write(image, "jpg", byteArrayOutputStream);
         byteArrayOutputStream.flush();
         return Imgcodecs.imdecode(new MatOfByte(byteArrayOutputStream.toByteArray()), Imgcodecs.CV_LOAD_IMAGE_UNCHANGED);
     }

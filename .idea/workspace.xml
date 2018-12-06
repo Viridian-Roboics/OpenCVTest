@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9973169f-2ed4-434e-b830-f3c30afdf81f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/111232_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/1193_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/123123_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/12312_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/123213_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/12321_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/12323_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/1232_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/123_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/1241231_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/231_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/234092344_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/2342342_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/234234_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/234234_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/23423_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/23423_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/23424234_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/2343424_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/23434_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/23434_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/2343_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/234_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/243_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/2533223_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/324234_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/324432_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/3244444_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/34232_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/3434433_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/343443_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/3439i_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/35434533_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/421_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/4344444_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/4433_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/4444449_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/4444_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/444_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/5423454_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/9239423_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/999999_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/9999_1.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/ClassificationInJava/ClassifyImages.class" afterPath="$PROJECT_DIR$/out/production/ClassificationInJava/ClassifyImages.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassificationInJava/FileTest.class" afterPath="$PROJECT_DIR$/out/production/ClassificationInJava/FileTest.class" />
       <change beforePath="$PROJECT_DIR$/src/ClassifyImages.java" afterPath="$PROJECT_DIR$/src/ClassifyImages.java" />
-      <change beforePath="$PROJECT_DIR$/src/FileTest.java" afterPath="$PROJECT_DIR$/src/FileTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProcessData.java" afterPath="$PROJECT_DIR$/src/ProcessData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,8 +90,8 @@
       <file leaf-file-name="ClassifyImages.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ClassifyImages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+            <state relative-caret-position="399">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,8 +102,8 @@
       <file leaf-file-name="ProcessData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ProcessData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="116">
+              <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,6 +134,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mat</find>
+      <find>icon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -227,19 +184,19 @@
         <option value="$PROJECT_DIR$/src/processedimages.txt" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
         <option value="$PROJECT_DIR$/src/ReadData.java" />
-        <option value="$PROJECT_DIR$/src/ProcessData.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/files/test.txt" />
         <option value="$PROJECT_DIR$/files/best.txt" />
         <option value="$PROJECT_DIR$/files/jest.txt" />
         <option value="$PROJECT_DIR$/src/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/ProcessData.java" />
         <option value="$PROJECT_DIR$/src/ClassifyImages.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="620" />
-    <option name="width" value="1308" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="715" />
+    <option name="width" value="1213" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -278,16 +235,6 @@
             <path>
               <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ClassificationInJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClassificationInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClassificationInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ClassificationInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -545,8 +492,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="715" y="0" width="1213" height="1038" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -557,11 +503,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38391846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38831615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32717678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -769,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProcessData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="116">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -779,8 +725,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassifyImages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        <state relative-caret-position="399">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
