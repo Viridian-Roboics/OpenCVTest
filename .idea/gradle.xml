@@ -5,6 +5,11 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Downloads/matfilerw-master/matfilerw-master" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
