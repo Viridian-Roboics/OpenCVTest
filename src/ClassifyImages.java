@@ -2,7 +2,9 @@ import org.opencv.core.Core;
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.core.Size;
+import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
+//import org.tensorflow.SavedModelBundle.Loader;
 
 
 import javax.imageio.ImageIO;
@@ -49,14 +51,15 @@ public class ClassifyImages {
                 }catch(IOException e){
                     e.printStackTrace();
                 }
-
                 Mat resized = new Mat(30,30,pixels.type());
                 //resize and grayscale
                 Imgproc.resize(pixels,resized,
                         new Size(30,30),
                         0,0,Imgproc.INTER_AREA);
                 Imgproc.cvtColor(resized,resized,Imgproc.COLOR_RGB2GRAY);
+                System.out.println(resized.dump());
                 resized = resized.reshape(1,1);
+                System.out.println(resized.dump());
                 resized.convertTo(resized,CvType.CV_64F);
                 Mat input = new Mat(1,901, resized.type());
                 double data[] = new double[900];

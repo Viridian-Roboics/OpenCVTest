@@ -36,7 +36,7 @@ public class ProcessData {
         ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
         ImageIO.write(image, "jpg", byteArrayOutputStream);
         byteArrayOutputStream.flush();
-        return Imgcodecs.imdecode(new MatOfByte(byteArrayOutputStream.toByteArray()), Imgcodecs.CV_LOAD_IMAGE_UNCHANGED);
+        return Imgcodecs.imdecode(new MatOfByte(byteArrayOutputStream.toByteArray()), Imgcodecs.IMREAD_UNCHANGED );
     }
     public static BufferedImage Mat2BufferedImage(Mat matrix)throws IOException {
         MatOfByte mob=new MatOfByte();
